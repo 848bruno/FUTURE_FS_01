@@ -1,0 +1,15 @@
+{
+  "name": "future-intern-portfolio",
+  "version": "1.0.0",
+  "description": "Responsive Portfolio Website Using Html, Css and JavaScript, With a beautiful user interface. It contains a Header, Home, About, Skills, Qualification, Services, Portfolio, Project in mind, Testimonial, Contact and Footer.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gh-pages": "^6.2.0"
+  }
+}
