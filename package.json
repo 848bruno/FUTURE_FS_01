@@ -4,7 +4,7 @@
   "description": "Responsive Portfolio Website Using Html, Css and JavaScript, With a beautiful user interface. It contains a Header, Home, About, Skills, Qualification, Services, Portfolio, Project in mind, Testimonial, Contact and Footer.",
   "main": "index.js",
   "scripts": {
-    "deploy": "gh-pages -d",
+    "deploy": "gh-pages -d .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
