@@ -117,6 +117,10 @@ var swiperTestimonial = new Swiper(".testimonial-container", {
   },
 });
 
+
+
+
+
 /* SCROLL SECTIONS ACTIVE LINK */
 const sections = document.querySelectorAll("section[id]");
 
@@ -192,5 +196,10 @@ themeButton.addEventListener("click", () => {
   themeButton.classList.toggle(iconTheme);
   // We save the theme and the current icon that the user chose
   localStorage.setItem("selected-theme", getCurrentTheme());
-  localStorage.setItem("selected-icon", getCurrentIcon());
+  localStorage.setItem("selected-icon", getCurrentIcon())
 });
+
+
+
+
+
