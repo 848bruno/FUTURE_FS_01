@@ -501,27 +501,27 @@ img {
 }
 
 .skills-container .skills-html {
-  width: 90%;
+  width: 100%;
 }
 
 .skills-container .skills-css {
-  width: 80%;
+  width: 95%;
 }
 
 .skills-container .skills-js {
-  width: 60%;
+  width: 93%;
 }
 
 .skills-container .skills-react {
-  width: 85%;
+  width: 95%;
 }
 
 .skills-container .skills-php {
-  width: 80%;
+  width: 90%;
 }
 
 .skills-container .skills-node {
-  width: 70%;
+  width: 95%;
 }
 
 .skills-container .skills-firebase {
@@ -529,7 +529,7 @@ img {
 }
 
 .skills-container .skills-python {
-  width: 55%;
+  width: 95%;
 }
 
 .skills-container .skills-figma {
